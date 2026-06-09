@@ -120,9 +120,4 @@ const OfferSection = () => {
 
 export default OfferSection;
 
-      </div>
-    </section>
-  );
-};
-
-export default OfferSection;
+   
